@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/alexander-muendesi-b8842523a/)
 
-:school: Currently studying Computer Science at the University of Pretoria</br>
+:school: Currently studying BscHons at the University of Pretoria</br>
 :computer: I have a great interest in Web Development, Mobile App Development and the .NET framework</br>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander-Muendesi&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Muendesi&theme=github_dark&layout=compact&hide_border=true" /></a> |
