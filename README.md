@@ -7,7 +7,7 @@
 :school: Currently studying BscHons at the University of Pretoria</br>
 :computer: I have a great interest in Web Development, Neural Networks and Mobile App Development. Java is my go to programming language for most tasks.</br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander-Muendesi&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Muendesi&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander-Muendesi&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Muendesi&layout=donut)](https://github.com/Alexander-Muendesi/github-readme-stats) |
 | ------------- | ------------- |
 
 ### :hammer_and_wrench: Languages and Tools :
